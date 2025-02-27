@@ -16,7 +16,6 @@
 ###
 
 <div align="center">
-  <img height="250" src="assets/vegeta.gif" alt="vegeta" />
   <img height="150" src="https://i.gifer.com/XOsX.gif" alt="gif" />
 </div>
 
@@ -50,7 +49,7 @@
   <a href="mailto:alancorzo1512@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/ayelmercorzob/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
