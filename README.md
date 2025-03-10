@@ -56,4 +56,3 @@
 
 ###
 
-![snake animation](https://github.com/AyelmerCorzoB/AyelmerCorzoB/blob/output/github-contribution-grid-snake2.svg)
