@@ -3,7 +3,7 @@
   👀 I'm interested in being a full-stack developer.<br>
   🌱 Currently learning with Campuslands.<br>
   📫 You can reach me at <a href="mailto:corzobarbosaa@gmail.com">corzobarbosaa@gmail.com</a><br>
-  😄 Pronouns: AlanDev
+  😄 Pronouns: Alan
 </p>
 
 ###
