@@ -1,27 +1,28 @@
 <h2 align="left">👋 Hi, I'm @AyelmerCorzoB</h2>
 
-<p align="left">
-  🌍 Choose your language: 
-  <a href="#english">🇺🇸 English</a> | <a href="#español">🇪🇸 Español</a>
-</p>
-
----
-
 ### English
-👀 I'm interested in being a full-stack developer.<br>
-🌱 Currently learning with Campuslands.<br>
-📫 You can reach me at <a href="mailto:corzobarbosaa@gmail.com">corzobarbosaa@gmail.com</a><br>
-😄 Pronouns: Alan
-
----
-
-### Español
-👀 Estoy interesado en ser un desarrollador full-stack.<br>
-🌱 Actualmente estoy aprendiendo con Campuslands.<br>
-📫 Puedes contactarme en <a href="mailto:corzobarbosaa@gmail.com">corzobarbosaa@gmail.com</a><br>
-😄 Pronombres: Alan
+<details>
+  <summary>Click to expand (English)</summary>
+  <p>
+    👀 I'm interested in being a full-stack developer.<br>
+    🌱 Currently learning with Campuslands.<br>
+    📫 You can reach me at <a href="mailto:corzobarbosaa@gmail.com">corzobarbosaa@gmail.com</a><br>
+    😄 Pronouns: Alan
+  </p>
+</details>
 
 ###
+
+### Español
+<details>
+  <summary>Haga clic para ampliar (Español)</summary>
+  <p>
+    👀 Estoy interesado en ser un desarrollador full-stack.<br>
+    🌱 Actualmente estoy aprendiendo con Campuslands.<br>
+    📫 Puedes contactarme en <a href="mailto:corzobarbosaa@gmail.com">corzobarbosaa@gmail.com</a><br>
+    😄 Pronombres: Alan
+  </p>
+</details>
 
 <div align="center">
   <img height="150" src="https://i.gifer.com/ZDcX.gif" alt="gif" />
