@@ -1,10 +1,25 @@
 <h2 align="left">👋 Hi, I'm @AyelmerCorzoB</h2>
+
 <p align="left">
-  👀 I'm interested in being a full-stack developer.<br>
-  🌱 Currently learning with Campuslands.<br>
-  📫 You can reach me at <a href="mailto:corzobarbosaa@gmail.com">corzobarbosaa@gmail.com</a><br>
-  😄 Pronouns: Alan
+  🌍 Choose your language: 
+  <a href="#english">🇺🇸 English</a> | <a href="#español">🇪🇸 Español</a>
 </p>
+
+---
+
+### English
+👀 I'm interested in being a full-stack developer.<br>
+🌱 Currently learning with Campuslands.<br>
+📫 You can reach me at <a href="mailto:corzobarbosaa@gmail.com">corzobarbosaa@gmail.com</a><br>
+😄 Pronouns: Alan
+
+---
+
+### Español
+👀 Estoy interesado en ser un desarrollador full-stack.<br>
+🌱 Actualmente estoy aprendiendo con Campuslands.<br>
+📫 Puedes contactarme en <a href="mailto:corzobarbosaa@gmail.com">corzobarbosaa@gmail.com</a><br>
+😄 Pronombres: Alan
 
 ###
 
