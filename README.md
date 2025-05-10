@@ -75,5 +75,9 @@
   </a>
 </div>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AyelmerCorzoB/AyelmerCorzoB/output/snake.svg" alt="Snake animation" />
+
 ###
 
