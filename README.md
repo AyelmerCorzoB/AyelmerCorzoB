@@ -5,7 +5,7 @@
   <summary>Click to expand (English)</summary>
   <p>
     👀 I'm interested in being a full-stack developer.<br>
-    🌱 Currently learning with Campuslands.<br>
+    🌱 I am currently doing my internship with the Gelvez Group.<br>
     📫 You can reach me at <a href="mailto:corzobarbosaa@gmail.com">corzobarbosaa@gmail.com</a><br>
     😄 Pronouns: Alan
   </p>
@@ -18,7 +18,7 @@
   <summary>Haga clic para ampliar (Español)</summary>
   <p>
     👀 Estoy interesado en ser un desarrollador full-stack.<br>
-    🌱 Actualmente estoy aprendiendo con Campuslands.<br>
+    🌱 Actualmente realizo mis practicas con el Grupo Gelvez<br>
     📫 Puedes contactarme en <a href="mailto:corzobarbosaa@gmail.com">corzobarbosaa@gmail.com</a><br>
     😄 Pronombres: Alan
   </p>
