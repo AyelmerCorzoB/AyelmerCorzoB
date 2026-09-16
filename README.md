@@ -25,6 +25,9 @@
 ---
 
 ## 👨‍💻 About Me · Sobre mí
+<div align="center">
+<img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRzYjRwZHhwamhkYXJnN3RldzZ4YXpkeXZpMWVkeDgzb29xem5qOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4N6wTrf1v6yQ/giphy.gif" alt="gif" />
+</div>
 
 <details open>
 <summary>🇬🇧 English</summary>
