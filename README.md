@@ -1,96 +1,308 @@
-<h2 align="left">👋 Hi, I'm @AyelmerCorzoB</h2>
+<div align="center">
 
-### English
-<details>
-  <summary>Click to expand (English)</summary>
-  <p>
-    👀 I'm interested in being a full-stack developer.<br>
-    🌱 I am currently doing my internship with the Gelvez Group.<br>
-    📫 You can reach me at <a href="mailto:corzobarbosaa@gmail.com">corzobarbosaa@gmail.com</a><br>
-    😄 Pronouns: Alan
-  </p>
+# 👋 Hi, I'm Ayelmer Corzo
+
+### Full-Stack Developer · Software Development · Digital Transformation
+
+**🇪🇸 Español:** Desarrollador Full-Stack enfocado en el desarrollo de soluciones empresariales, automatización, integración de sistemas y transformación digital.
+
+**🇬🇧 English:** Full-Stack Developer focused on enterprise solutions, automation, system integration and digital transformation.
+
+<br>
+
+<a href="https://www.linkedin.com/in/ayelmercorzob/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.youtube.com/@ayelmercorzo" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="mailto:corzobarbosaa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me · Sobre mí
+
+<details open>
+<summary>🇬🇧 English</summary>
+
+<br>
+
+I'm a **Full-Stack Developer** passionate about building software solutions that connect technology with real business needs.
+
+I work on **web applications, enterprise systems, APIs, databases, process automation and system integrations**, with a focus on creating practical, maintainable and scalable solutions.
+
+Currently, I work as a **Full-Stack Developer at Grupo Gelvez**, contributing to the development and improvement of digital solutions that support business operations.
+
+### What I do
+
+* 🌐 Full-Stack Web Development
+* 🏢 Enterprise Software Solutions
+* 🔌 REST APIs & System Integration
+* 🗄️ Database Development
+* ⚙️ Process Automation
+* 📊 Data & Business Intelligence
+* 🔐 Authentication & Access Control
+* 🔄 Digital Transformation
+
 </details>
 
-###
+<details open>
+<summary>🇪🇸 Español</summary>
 
-### Español
-<details>
-  <summary>Haga clic para ampliar (Español)</summary>
-  <p>
-    👀 Estoy interesado en ser un desarrollador full-stack.<br>
-    🌱 Actualmente realizo mis practicas con el Grupo Gelvez<br>
-    📫 Puedes contactarme en <a href="mailto:corzobarbosaa@gmail.com">corzobarbosaa@gmail.com</a><br>
-    😄 Pronombres: Alan
-  </p>
+<br>
+
+Soy **Desarrollador Full-Stack**, apasionado por construir soluciones de software que conecten la tecnología con las necesidades reales de las organizaciones.
+
+Trabajo en el desarrollo de **aplicaciones web, sistemas empresariales, APIs, bases de datos, automatización de procesos e integración de sistemas**, buscando crear soluciones prácticas, mantenibles y escalables.
+
+Actualmente trabajo como **Desarrollador Full-Stack en el Grupo Gelvez**, participando en el desarrollo y evolución de soluciones digitales que apoyan diferentes procesos de negocio.
+
+### Lo que hago
+
+* 🌐 Desarrollo Web Full-Stack
+* 🏢 Soluciones de Software Empresarial
+* 🔌 APIs REST e Integración de Sistemas
+* 🗄️ Desarrollo y gestión de Bases de Datos
+* ⚙️ Automatización de Procesos
+* 📊 Datos y Business Intelligence
+* 🔐 Autenticación y Control de Acceso
+* 🔄 Transformación Digital
+
 </details>
+
+---
+
+## 🛠️ Tech Stack · Tecnologías
+
+### Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="42" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original-wordmark.svg" width="42" alt="Astro"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" alt="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" alt="Tailwind CSS"/>
+</p>
+
+### Backend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="42" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python"/>
+</p>
+
+### Databases · Bases de Datos
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42" alt="SQL Server"/>
+</p>
+
+### Tools · Herramientas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub"/>
+  
+</p>
+
+---
+
+## 💼 Areas of Interest · Áreas de interés
+
+<details open>
+<summary>🇬🇧 English</summary>
+
+<br>
+
+### Software Engineering
+
+Designing and developing maintainable applications with clear architecture, reusable components and reliable data flows.
+
+### Enterprise Solutions
+
+Building digital tools that support business processes, operational workflows and internal management.
+
+### Automation
+
+Transforming repetitive manual tasks into automated and traceable digital processes.
+
+### System Integration
+
+Connecting applications, databases and external services through APIs and structured data flows.
+
+### Data & Business Intelligence
+
+Working with operational data to generate useful information for analysis and decision-making.
+
+</details>
+
+<details>
+<summary>🇪🇸 Español</summary>
+
+<br>
+
+### Ingeniería de Software
+
+Diseño y desarrollo de aplicaciones mantenibles, con arquitectura clara, componentes reutilizables y flujos de datos confiables.
+
+### Soluciones Empresariales
+
+Desarrollo de herramientas digitales para apoyar procesos de negocio, operaciones y gestión interna.
+
+### Automatización
+
+Transformación de tareas manuales y repetitivas en procesos digitales automatizados y trazables.
+
+### Integración de Sistemas
+
+Conexión de aplicaciones, bases de datos y servicios mediante APIs y flujos de información estructurados.
+
+### Datos y Business Intelligence
+
+Trabajo con información operativa para generar datos útiles para el análisis y la toma de decisiones.
+
+</details>
+
+---
+
+## 🚀 What I Build · Lo que desarrollo
+
+<div align="center">
+
+|        🇬🇧 English       |           🇪🇸 Español           |
+| :-----------------------: | :------------------------------: |
+|    🌐 Web Applications    |        🌐 Aplicaciones Web       |
+|   🏢 Enterprise Systems   |     🏢 Sistemas Empresariales    |
+|        🔌 REST APIs       |           🔌 APIs REST           |
+|  ⚙️ Automation Solutions  |  ⚙️ Soluciones de Automatización |
+|   🗄️ Database Solutions  | 🗄️ Soluciones de Bases de Datos |
+|   📊 Data & BI Solutions  |    📊 Soluciones de Datos y BI   |
+| 🔐 Authentication Systems |   🔐 Sistemas de Autenticación   |
+|   🔄 System Integrations  |   🔄 Integraciones de Sistemas   |
+
+</div>
+
+---
+
+## 🧠 Development Philosophy · Filosofía de desarrollo
+
+<details open>
+<summary>🇬🇧 English</summary>
+
+<br>
+
+I believe software development is not only about writing code.
+
+A good solution starts by understanding the **business problem**, designing an appropriate approach, implementing it carefully and continuously improving it based on real-world feedback.
+
+**Understand → Design → Develop → Integrate → Test → Improve**
+
+</details>
+
+<details>
+<summary>🇪🇸 Español</summary>
+
+<br>
+
+Considero que el desarrollo de software no consiste únicamente en escribir código.
+
+Una buena solución comienza por comprender el **problema de negocio**, diseñar un enfoque adecuado, implementarlo correctamente y mejorarlo continuamente a partir de las necesidades reales de los usuarios.
+
+**Comprender → Diseñar → Desarrollar → Integrar → Probar → Mejorar**
+
+</details>
+
+---
+
+## 📚 Currently Learning · Actualmente aprendiendo
+
+<div align="center">
+
+**🇬🇧 English**
+
+Systems Engineer · Software Architecture · Advanced Full-Stack Development · API Design · Application Security · Database Optimization · DevOps · Automation · AI-assisted Development
+
+<br>
+
+**🇪🇸 Español**
+
+Ingenieria en Sistemas · Arquitectura de Software · Desarrollo Full-Stack Avanzado · Diseño de APIs · Seguridad de Aplicaciones · Optimización de Bases de Datos · DevOps · Automatización · Desarrollo asistido por IA
+
+</div>
+
+---
+
+## 📂 Featured Projects · Proyectos destacados
+
+> 🚧 This section will be updated as projects are published.
+>
+> 🚧 Esta sección se actualizará a medida que se publiquen proyectos.
 
 <div align="center">
   
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRzYjRwZHhwamhkYXJnN3RldzZ4YXpkeXZpMWVkeDgzb29xem5qOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g4N6wTrf1v6yQ/giphy.gif" alt="gif" />
+| Project                 | Description                                    | Technologies               |
+| :---------------------- | :--------------------------------------------- | :------------------------- |
+|                         |                                                |                            |
+
 </div>
 
-###
+---
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
+## 🐍 Contribution Activity · Actividad de contribuciones
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="Angular" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="30" alt="Astro" />
+
+<img src="https://raw.githubusercontent.com/AyelmerCorzoB/AyelmerCorzoB/output/snake.svg" alt="Snake animation"/>
+
 </div>
+
+---
+
+## 📫 Let's Connect · Conectemos
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+
+### 🇬🇧 English
+
+Interested in **software development, technology, automation and digital transformation**? Feel free to connect.
+
+### 🇪🇸 Español
+
+¿Te interesa el **desarrollo de software, la tecnología, la automatización y la transformación digital**? Puedes contactarme.
+
+<br>
+
+<a href="https://www.linkedin.com/in/ayelmercorzob/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ayelmer%20Corzo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.youtube.com/@ayelmercorzo" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Ayelmer%20Corzo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+<a href="mailto:corzobarbosaa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 </div>
+
+---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+
+**🇪🇸 Construyendo soluciones digitales que conectan tecnología y negocio.**
+
+**🇬🇧 Building digital solutions that connect technology and business.**
+
 </div>
-
-
-### 
-
-<div align="center">
-  <a href="https://www.youtube.com/@ayelmercorzo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <!-- <a href="https://www.instagram.com/ayelmercorzo?igsh=MTVzbzB5bG5vdG05MA==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a> -->
-  <!-- <a href="https://www.twitch.tv/ayelmercorzo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
-  </a> -->
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:corzobarbosaa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/ayelmercorzob/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AyelmerCorzoB/AyelmerCorzoB/output/snake.svg" alt="Snake animation" />
-
-###
-
